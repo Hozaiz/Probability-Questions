@@ -1,0 +1,98 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Logs and local configs
+*.log
+*.pot
+*.mo
+*.pid
+*.sqlite3
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# VS Code files
+.vscode/
+
+# PyCharm files
+.idea/
+
+# macOS files
+.DS_Store
+
+# Anaconda
+*.ipynb_checkpoints/
+*.conda
+*.env
+*.DS_Store
+
+# MATLAB temporary files
+*.asv
+*.fig
+*.mat
+*.p
+*.mex*
+
+# SolidWorks, ANSYS, AutoCAD temp and backup files
+*.sldprt
+*.sldasm
+*.slddrw
+*.bak
+*.tmp
+*.log
+*.err
+
+# Unreal Engine build folders (if used)
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# MongoDB dump files
+dump/
+
+# Ignore large data files
+/data/*
+/datasets/*
+/models/*
